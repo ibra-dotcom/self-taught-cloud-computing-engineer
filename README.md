@@ -4,7 +4,7 @@
 
 This is the code repository for [The Self-Taught Cloud Computing Engineer](https://www.packtpub.com/product/the-self-taught-cloud-engineer/9781805123705?utm_source=github&utm_medium=repository&utm_campaign=9781805123705), published by Packt.
 
-**A comprehensive professional study guide to AWS, Azure, and GCP**
+** A comprehensive professional study guide to AWS, Azure, and GCP**
 
 ## What is this book about?
 This self-study book helps you master multiple clouds, including AWS, Azure, and GCP, and serves as a roadmap to becoming a certified cloud computing expert. The book will guide you to develop a professional cloud career by building a broad cloud knowledge base, developing hands-on cloud computing skills, and getting cloud certified.
